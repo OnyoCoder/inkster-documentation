@@ -6,7 +6,30 @@ To get started just click on the content you want to go to on the sidebar/topbar
 ### Table of Contents
 
 - Easy
-- Educational
+
+# Welcome to the beginning of Easy module in inkster!
+
+Easy module in inkster is just basic stuff that can be useful and useless at the same time.
+
+## Functions
+
+```python
+class Normal:
+```
+
+Welcome to the normal class.
+
+```python
+hello(name)
+```
+
+Says hello to whatever is in the `name` parameter.
+
+```python
+say(message)
+```
+
+Says anything you want put in the `message` parameter.
 
 ## inkster license
 

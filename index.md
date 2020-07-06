@@ -6,6 +6,7 @@ To get started just click on the content you want to go to on the sidebar/topbar
 ### Table of Contents
 
 - Easy
+- Educational
 
 # Welcome to the beginning of Easy module in inkster!
 
@@ -30,6 +31,42 @@ say(message)
 ```
 
 Says anything you want put in the `message` parameter.
+
+# Welcome to the beginning of Educational module in inkster!
+
+Educational module has educational things such as math, knowledge, etc.
+
+## Functions
+
+```python
+class Math:
+```
+
+Welcome to the Math class.
+
+```python
+addition([num_1, num_2, etc])
+```
+
+Adds as many numbers as you want. DO math anywhere at anytime.
+
+```python
+multiplication(num_1, num_2)
+```
+
+Multiply any two numbers you want.(Soon to be able to do as many numbers you want)
+
+```python
+division(num_1, num_2)
+```
+
+Divides ant two numbers you want.(Soon to be able to do as many numbers you want)
+
+```python
+subtraction(num_1, num_2)
+```
+
+Subtracts any two numbers you want.(Soon to be able to do as many numbers you want)
 
 ## inkster license
 

@@ -5,7 +5,7 @@ To get started just click on the content you want to go to on the sidebar/topbar
 
 ### Table of Contents
 
-- Normal
+- Easy
 - Educational
 
 ## inkster license

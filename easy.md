@@ -4,16 +4,21 @@ Easy module in inkster is just basic stuff that can be useful and useless at the
 
 ## Functions
 
-*```py
-class Normal:```*
+```python
+class Normal:
+```
 
-*```py
-hello(name)```*
+Welcome to the normal class.
+
+```python
+hello(name)
+```
 
 Says hello to whatever is in the `name` parameter.
 
-*```py
-say(message)```*
+```python
+say(message)
+```
 
 Says anything you want put in the `message` parameter.
 

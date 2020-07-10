@@ -17,10 +17,10 @@ hello(name)
 Says hello to whatever is in the `name` parameter.
 
 ```python
-say(message)
+log(logged)
 ```
 
-Says anything you want put in the `message` parameter.
+Logs anything you want put in the `logged` parameter.
 
 ## inkster license
 
